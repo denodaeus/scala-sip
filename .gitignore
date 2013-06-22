@@ -7,3 +7,7 @@ project/target
 ################
 .classpath
 .project
+
+# Runtime Files
+################
+.cache
